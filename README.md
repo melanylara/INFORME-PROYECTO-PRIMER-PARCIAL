@@ -100,8 +100,7 @@
 
 5.	VIDEO
 
-https://youtu.be/efsPruRy8VY
- 
+
 6.	CONCLUSIONES
 
     -	El transistor es un componente electrónico que ayuda a amplificar los impulsos eléctricos dando así una mayor salida de electrones para que la pieza que está conectada al final de la conexión se pueda prender si problema alguno.
